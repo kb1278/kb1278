@@ -10,3 +10,5 @@
 ## :man_technologist: About Me :
 
 Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- :telescope: I am currently doing a bootcamp in data science with HyperionDev
