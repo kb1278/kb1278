@@ -15,7 +15,7 @@
 ### :woman_technologist: About Me :
 Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - :telescope: I am currently doing a bootcamp in data science with HyperionDev.
--  :seedling: I have been leveraging Python to perform data analysis, machine learning and NLP tasks.
+-  :seedling: I have been leveraging Python and its libraries to perform data analysis, machine learning and NLP tasks.
 
  ### :hammer_and_wrench: Languages and Tools :
  <div>
@@ -25,7 +25,8 @@ Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg:" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+   <div>
 
 
 
