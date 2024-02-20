@@ -28,6 +28,17 @@ Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
    <div>
 
+   ---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kb1278&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
+
+
+
 
 
 
