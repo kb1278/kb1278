@@ -15,7 +15,7 @@
 ### :woman_technologist: About Me :
 Aspiring Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - :telescope: I am currently doing a bootcamp in data science with HyperionDev.
--  :seedling: I have been using Python libraries such as Pandas, NumPy and SpaCy to perform machine learning and NLP tasks.
+- :seedling: I have been using Python libraries such as Pandas, NumPy and SpaCy to perform machine learning and NLP tasks.
 
  ### :hammer_and_wrench: Languages and Tools :
  <div>
