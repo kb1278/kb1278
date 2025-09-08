@@ -18,14 +18,15 @@ Aspiring Data Scientist
 
 ### 🚀 Projects
 
-- [💰 Finance Calculator](https://github.com/kb1278/finance-calculator)  
+- [💰 Finance Calculator](https://github.com/kb1278/finalCapstone)  
   A Python-based tool to compute investment growth and monthly bond repayments.
 
-- [💬 Sentiment Analysis on Product Reviews](https://github.com/kb1278/sentiment-analysis)  
+- [💬 Sentiment Analysis on Product Reviews](https://github.com/kb1278/finalCapstone)  
   Uses NLP to classify product reviews as positive or negative.
 
-- [🚀 SpaceX Falcon 9 Landing Prediction](https://github.com/kb1278/finalCapstone)  
+- [🚀 SpaceX Falcon 9 Landing Prediction](https://github.com/kb1278/Applied-Data-Science-Capstone)  
   Predicts the successful landing of the Falcon 9 rocket's first stage using machine learning.
+
 
 ---
 
