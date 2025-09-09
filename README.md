@@ -14,7 +14,7 @@ Aspiring Data Scientist
 
 🔭 I have completed a data science bootcamp with HyperionDev, where I gained hands-on experience in data analysis, machine learning, and natural language processing.
 
-🌱 I use Python libraries such as Pandas, NumPy, and SpaCy to explore and model data, solve real-world problems, and build NLP applications.
+🌱 I used Python libraries such as Pandas, NumPy, and SpaCy to explore and model data, solve real-world problems, and build NLP applications.
 
 📚 To deepen my knowledge, I’ve also earned industry-recognized certifications, including the IBM Data Science Professional Certificate and the Google Advanced Data Analytics Professional Certificate.
 
