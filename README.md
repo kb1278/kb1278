@@ -12,7 +12,7 @@
 
 Aspiring Data Scientist  
 
-🔭 I have completed a data science bootcamp with HyperionDev, where I gained practical experience applying data analysis, machine learning, and natural language processing techniques.
+🔭 I have completed a data science bootcamp with HyperionDev, where I gained practical experience applying data analysis, machine learning, and NLP techniques.
 
 🌱 I used Python libraries such as Pandas, NumPy, and SpaCy to explore and model data, solve real-world problems, and build NLP applications.
 
