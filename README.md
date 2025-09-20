@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-Aspiring Data Scientist  
+Aspiring Data Analyst/Scientist  
 
 🔭 I have completed a data science bootcamp with HyperionDev, where I gained practical experience applying data analysis, machine learning, and NLP techniques.
 
