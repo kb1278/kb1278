@@ -16,40 +16,30 @@ Junior Data Analyst with experience using Python, SQL, Power BI, and machine lea
 Skilled in data cleaning, exploratory data analysis, statistical analysis, data visualisation, and machine learning using tools including Pandas, NumPy, scikit-learn, Matplotlib, and Power BI.
 
 Completed practical analytics and machine learning projects involving customer analytics, churn prediction, biodiversity analysis, NLP, and predictive modelling. Certified in data analytics and data science through IBM and Google professional certification programs.
----
 
-## Projects
-
-### E-Commerce Sales & Customer Analytics
-Analysed 100k+ e-commerce orders using SQL, Python, and Power BI to identify sales trends, customer behaviour, delivery performance, and regional revenue insights.
-
-### Customer Churn Prediction
-Developed Logistic Regression and Random Forest models using Python and scikit-learn to predict customer churn from online retail transaction data.
-
-### Biodiversity in National Parks
-Performed exploratory data analysis and chi-square hypothesis testing on biodiversity and park observation datasets to identify conservation trends across U.S. national parks.
-
-### SpaceX Falcon 9 Landing Prediction
-Built machine learning models to predict successful Falcon 9 first-stage landings using historical SpaceX launch data.
-
-### Sentiment Analysis on Product Reviews
-Applied NLP techniques using SpaCy and Python to classify customer product reviews by sentiment.
-
-### Finance Calculator
-Developed a Python-based calculator for investment growth forecasting and bond repayment estimation.
 
 ---
 
 ### 🚀 Projects
 
-- [💰 Finance Calculator](https://github.com/kb1278/finalCapstone)  
-  A Python-based tool to compute investment growth and monthly bond repayments.
 
-- [💬 Sentiment Analysis on Product Reviews](https://github.com/kb1278/finalCapstone)  
-  Uses NLP to classify product reviews as positive or negative.
+- [E-Commerce Sales & Customer Analytics](https://github.com/kb1278/ecommerce-sales-analytics)  
+  Analysed 100k+ e-commerce orders using SQL, Python, and Power BI to identify sales trends, customer behaviour, delivery performance, and regional revenue insights.
 
-- [🚀 SpaceX Falcon 9 Landing Prediction](https://github.com/kb1278/Applied-Data-Science-Capstone)  
-  Predicts the successful landing of the Falcon 9 rocket's first stage using machine learning.
+- [Customer Churn Prediction](https://github.com/kb1278/customer-churn-prediction)  
+  Developed Logistic Regression and Random Forest models using Python and scikit-learn to predict customer churn from online retail transaction data.
+
+- [Biodiversity in National Parks](https://github.com/kb1278/biodiversity-national-parks-analysis)  
+  Performed exploratory data analysis and chi-square hypothesis testing on biodiversity datasets to identify conservation trends across U.S. national parks.
+
+- [SpaceX Falcon 9 Landing Prediction](https://github.com/kb1278/Applied-Data-Science-Capstone)  
+  Built machine learning models to predict successful Falcon 9 first-stage landings using historical SpaceX launch data.
+
+- [Sentiment Analysis on Product Reviews](https://github.com/kb1278/finalCapstone)  
+  Applied NLP techniques using Python and SpaCy to classify customer product reviews by sentiment.
+
+- [Finance Calculator](https://github.com/kb1278/finalCapstone)  
+  Developed a Python-based calculator for investment growth forecasting and bond repayment estimation.
 
 
 ---
