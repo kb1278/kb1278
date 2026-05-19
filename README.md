@@ -33,8 +33,7 @@ Completed a Data Science Bootcamp with HyperionDev and certified in data analyti
 - [Biodiversity in National Parks](https://github.com/kb1278/biodiversity-national-parks-analysis)  
   Performed exploratory data analysis and chi-square hypothesis testing on biodiversity datasets to identify conservation trends across U.S. national parks.
 
-- [Sentiment Analysis on Product Reviews](https://github.com/kb1278/finalCapstone)  
-  Applied NLP techniques using Python and SpaCy to classify customer product reviews by sentiment.
+  
 
 
 
