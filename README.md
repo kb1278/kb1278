@@ -35,14 +35,9 @@ Certified in data analytics and data science through IBM and Google professional
 - [Biodiversity in National Parks](https://github.com/kb1278/biodiversity-national-parks-analysis)  
   Performed exploratory data analysis and chi-square hypothesis testing on biodiversity datasets to identify conservation trends across U.S. national parks.
 
-- [SpaceX Falcon 9 Landing Prediction](https://github.com/kb1278/Applied-Data-Science-Capstone)  
-  Built machine learning models to predict successful Falcon 9 first-stage landings using historical SpaceX launch data.
-
 - [Sentiment Analysis on Product Reviews](https://github.com/kb1278/finalCapstone)  
   Applied NLP techniques using Python and SpaCy to classify customer product reviews by sentiment.
 
-- [Finance Calculator](https://github.com/kb1278/finalCapstone)  
-  Developed a Python-based calculator for investment growth forecasting and bond repayment estimation.
 
 
 ---
