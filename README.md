@@ -11,11 +11,14 @@
 ### 👨‍💻 About Me
 
 
-Junior Data Analyst with experience using Python, SQL, Power BI, and machine learning techniques to analyse datasets, build dashboards, and develop predictive models.
+Aspiring Data Analyst with hands-on experience using Python, SQL, Power BI, and machine learning techniques to analyse datasets, build dashboards, and develop predictive models.
 
-Skilled in data cleaning, exploratory data analysis, statistical analysis, data visualisation, and machine learning using tools including Pandas, NumPy, scikit-learn, Matplotlib, and Power BI.
+Skilled in data cleaning, exploratory data analysis (EDA), statistical analysis, data visualisation, and predictive modelling using tools including Pandas, NumPy, scikit-learn, Matplotlib, and Power BI.
 
-Completed practical analytics and machine learning projects involving customer analytics, churn prediction, biodiversity analysis, NLP, and predictive modelling. Certified in data analytics and data science through IBM and Google professional certification programs.
+Completed practical analytics and machine learning projects involving customer analytics, churn prediction, biodiversity analysis, natural language processing (NLP), business intelligence, and predictive modelling.
+
+Certified in data analytics and data science through IBM and Google professional certification programs.
+
 
 
 ---
