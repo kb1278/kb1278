@@ -15,7 +15,7 @@ Aspiring Data Analyst with hands-on experience using Python, SQL, Power BI, and 
 
 Skilled in data cleaning, exploratory data analysis (EDA), statistical analysis, data visualisation, and predictive modelling using tools including Pandas, NumPy, scikit-learn, Matplotlib, and Power BI.
 
-Completed practical analytics and machine learning projects involving customer analytics, churn prediction, biodiversity analysis, natural language processing (NLP), business intelligence, and predictive modelling.
+Completed practical analytics and machine learning projects involving customer analytics, churn prediction, biodiversity analysis, and natural language processing (NLP).
 
 Certified in data analytics and data science through IBM and Google professional certification programs.
 
