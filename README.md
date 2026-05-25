@@ -33,9 +33,8 @@ Completed a Data Science Bootcamp with HyperionDev and certified in data analyti
 - [Biodiversity in National Parks](https://github.com/kb1278/biodiversity-national-parks-analysis)  
   Performed exploratory data analysis and chi-square hypothesis testing on biodiversity datasets to identify conservation trends across U.S. national parks.
 
-  
-
-
+- [Superstore Sales Dashboard](https://github.com/kb1278/superstore-sales-dashboard)  
+  Built an interactive Excel dashboard using PivotTables, PivotCharts, KPIs, and slicers to analyse sales performance, profitability, customer segments, and top-performing   states.
 
 ---
 
