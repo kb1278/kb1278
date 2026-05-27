@@ -11,11 +11,11 @@
 ### 👨‍💻 About Me
 
 
-Aspiring Data Professional with hands-on experience using Python, SQL, Power BI, and machine learning techniques to analyse datasets, build dashboards, and develop predictive models.
+Junior Data Analyst with practical experience using Python, SQL, Power BI, and machine learning techniques to analyse datasets, identify trends, and generate actionable insights.
 
-Skilled in data cleaning, exploratory data analysis (EDA), statistical analysis, data visualisation, and predictive modelling using tools including Pandas, NumPy, scikit-learn, Matplotlib, and Power BI.
+Skilled in data cleaning, exploratory data analysis (EDA), statistical analysis, data visualisation, dashboard development, and predictive modelling using Pandas, NumPy, scikit-learn, Matplotlib, Power BI, and Excel.
 
-Completed a Data Science Bootcamp with HyperionDev and certified in data analytics and data science through IBM and Google professional certification programs.
+Certified in Google Data Analytics, Google Advanced Data Analytics, and IBM Data Science.
 
 
 
