@@ -48,6 +48,8 @@ Certified in Google Data Analytics, Google Advanced Data Analytics, and IBM Data
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
 </div>
 
 ---
