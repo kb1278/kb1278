@@ -16,7 +16,7 @@ Certified in Google Data Analytics, Google Advanced Data Analytics, and IBM Data
 
 # 🎓 Training
 
-Completed a Data Science Bootcamp with HyperionDev focused on Python, SQL, data analysis, machine learning, and data visualisation through practical projects and real-world datasets.
+Completed a Data Science Bootcamp with HyperionDev.
 
 ---
 
