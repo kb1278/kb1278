@@ -50,11 +50,8 @@ Built an interactive Excel dashboard using PivotTables, PivotCharts, KPIs, and s
 🔗 https://github.com/kb1278/flask-inventory-management-api
 
 Built a full-stack inventory management system using Flask, SQLAlchemy, and SQLite, implementing RESTful API endpoints for product, inventory, and sales data management.
-
 Designed a relational database schema and developed an ETL pipeline using Pandas for data ingestion and processing.
-
 Developed KPI analytics endpoints including stock levels, top-selling products, and inventory valuation.
-
 Containerised the application using Docker for consistent deployment and production-ready execution.
 
 ---
