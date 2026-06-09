@@ -17,12 +17,11 @@ Certified in Google Data Analytics, Google Advanced Data Analytics, and IBM Data
 
 Built an end-to-end analytics engineering pipeline using dbt and DuckDB on the Olist e-commerce dataset.
 
-- Designed a layered data architecture (staging → marts) to transform raw transactional data into analytics-ready datasets  
-- Built modular SQL models for revenue, customer, and monthly business performance analysis  
-- Implemented fact tables for order-level revenue and aggregated KPI reporting  
-- Applied dbt best practices including model structuring, dependencies, and reusable transformations
-- Implemented dbt best practices including model dependencies, testing, and documentation structure
-- Improved data reliability through structured transformation logic and reproducible workflows using dbt  
+- Designed a layered staging → marts architecture for scalable data transformation
+- Built fact and dimension models for orders, customers, and revenue analysis
+- Developed SQL models to generate core KPIs including revenue and monthly performance metrics
+- Applied dbt best practices including testing, documentation, and modular transformations
+- Delivered analytics-ready datasets supporting £16M+ revenue insights and business reporting  
 **Impact:** Delivered production-style analytics models generating £16M+ revenue insights and scalable KPI reporting.
 
 ---
