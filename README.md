@@ -20,7 +20,8 @@ Built an end-to-end analytics engineering pipeline using dbt and DuckDB on the O
 - Designed a layered data architecture (staging → marts) to transform raw transactional data into analytics-ready datasets  
 - Built modular SQL models for revenue, customer, and monthly business performance analysis  
 - Implemented fact tables for order-level revenue and aggregated KPI reporting  
-- Applied dbt best practices including model structuring, dependencies, and reusable transformations  
+- Applied dbt best practices including model structuring, dependencies, and reusable transformations
+- Implemented dbt best practices including model dependencies, testing, and documentation structure
 - Improved data reliability through structured transformation logic and reproducible workflows using dbt  
 **Impact:** Delivered production-style analytics models generating £16M+ revenue insights and scalable KPI reporting.
 
@@ -29,7 +30,12 @@ Built an end-to-end analytics engineering pipeline using dbt and DuckDB on the O
 ## 📊 E-Commerce Sales & Customer Analytics | SQL, Python, Power BI  
 🔗 https://github.com/kb1278/ecommerce-sales-analytics  
 
-Analysed 100k+ e-commerce orders using SQL, Python, and Power BI to identify sales trends, customer behaviour, delivery performance, and regional revenue insights.
+Built an end-to-end analytics solution to analyse 100k+ e-commerce orders and uncover insights on sales performance, customer behaviour, and delivery trends.
+
+- Performed data cleaning and exploratory data analysis using SQL and Python
+- Developed Power BI dashboards tracking sales, profit, customer segments, and regional performance
+- Conducted time-series and regional analysis to identify revenue trends and seasonality
+- Delivered KPI reporting for business performance monitoring and decision-making
 
 ---
 
@@ -57,14 +63,20 @@ Built a full-stack inventory management system using Flask, SQLAlchemy, and SQLi
 ## 🌿 Biodiversity in National Parks | Python, Pandas  
 🔗 https://github.com/kb1278/biodiversity-national-parks-analysis  
 
-Performed exploratory data analysis and chi-square hypothesis testing on biodiversity datasets to identify conservation trends across U.S. national parks.
+Performed statistical analysis on biodiversity data to identify conservation trends across U.S. national parks.
 
+- Conducted exploratory data analysis using Pandas
+- Performed chi-square hypothesis testing on species distribution patterns
+- Identified ecological trends across parks and species categories
 ---
 
 ## 📈 Superstore Sales Dashboard | Excel  
 🔗 https://github.com/kb1278/superstore-sales-dashboard  
+Built an interactive Excel dashboard to analyse sales performance, profitability, and customer segmentation.
 
-Built an interactive Excel dashboard using PivotTables, PivotCharts, KPIs, and slicers to analyse sales performance, profitability, customer segments, and regional trends.
+- Designed PivotTables and PivotCharts for dynamic data analysis
+- Built KPI dashboards using slicers and interactive filters
+- Analysed regional, product, and customer segment performance
 
 ---
 
