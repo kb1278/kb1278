@@ -55,7 +55,7 @@ Built machine learning models to predict customer churn from retail transaction 
 
 - Engineered RFM-based features for customer segmentation
 - Trained Logistic Regression and Random Forest models using scikit-learn
-- Evaluated model performance using classification metrics- 
+- Evaluated model performance using classification metrics
 - Built Streamlit app for real-time churn prediction and interpretation
 
 ---
