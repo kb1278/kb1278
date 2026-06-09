@@ -32,7 +32,7 @@ Built an end-to-end analytics engineering pipeline using dbt and DuckDB on the O
 - Developed SQL models to generate core KPIs including revenue and monthly performance metrics
 - Applied dbt best practices including testing, documentation, and modular transformations
 - Delivered analytics-ready datasets supporting £16M+ revenue insights and business reporting  
-**Impact:** Delivered production-style analytics models generating £16M+ revenue insights and scalable KPI reporting.
+
 
 ---
 
