@@ -51,10 +51,12 @@ Built an end-to-end analytics solution to analyse 100k+ e-commerce orders and un
 ## 📉 Customer Churn Prediction | Python, scikit-learn, Streamlit  
 🔗 https://github.com/kb1278/customer-churn-prediction  
 
-Developed Logistic Regression and Random Forest models to predict customer churn from online retail transaction data.
+Built machine learning models to predict customer churn from retail transaction data.
 
-- Engineered RFM-based features to improve model performance and customer segmentation  
-- Built Streamlit app for real-time churn prediction and model interpretation  
+- Engineered RFM-based features for customer segmentation
+- Trained Logistic Regression and Random Forest models using scikit-learn
+- Evaluated model performance using classification metrics- 
+- Built Streamlit app for real-time churn prediction and interpretation
 
 ---
 
@@ -81,6 +83,7 @@ Performed statistical analysis on biodiversity data to identify conservation tre
 
 ## 📈 Superstore Sales Dashboard | Excel  
 🔗 https://github.com/kb1278/superstore-sales-dashboard  
+
 Built an interactive Excel dashboard to analyse sales performance, profitability, and customer segmentation.
 
 - Designed PivotTables and PivotCharts for dynamic data analysis
