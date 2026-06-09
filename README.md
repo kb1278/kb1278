@@ -1,3 +1,13 @@
+<div id="header" align="center">
+
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+</div>
+
+---
+
+
+
 # 👨‍💻 About Me
 
 Junior Data Analyst / Analytics Engineer with practical experience using Python, SQL, Power BI, and dbt to analyse data, build analytics pipelines, and generate actionable business insights.
