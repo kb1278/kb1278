@@ -6,17 +6,14 @@
 
 ---
 
-
-
 # 👨‍💻 About Me
 
-Junior Data Analyst / Analytics Engineer with practical experience using Python, SQL, Power BI, and dbt to analyse data, build analytics pipelines, and generate actionable business insights.
+Junior Data Analyst / Analytics Engineer with practical experience in Python, SQL, Power BI, and dbt. Focused on building analytics pipelines, data models, and dashboards that turn raw data into actionable insights.
 
-Skilled in data cleaning, exploratory data analysis (EDA), statistical analysis, data visualisation, dashboard development, and reporting using Pandas, NumPy, scikit-learn, Matplotlib, Power BI, and Excel.
+Skilled in data cleaning, exploratory data analysis, statistical analysis, and data visualisation using Pandas, NumPy, scikit-learn, Matplotlib, and Excel.
 
-Experience building backend data systems, analytics pipelines, and APIs using Flask, SQLAlchemy, SQLite, dbt, and Docker.
+Experienced in designing ELT workflows, KPI reporting systems, and structured datasets using SQL and cloud data warehouses. Certified in Google Data Analytics, Google Advanced Data Analytics, and IBM Data Science.
 
-Certified in Google Data Analytics, Google Advanced Data Analytics, and IBM Data Science.
 
 ---
 
@@ -60,17 +57,6 @@ Built machine learning models to predict customer churn from retail transaction 
 
 ---
 
-## 📦 Flask Inventory Management API | Python, Flask, SQLAlchemy, Docker  
-🔗 https://github.com/kb1278/flask-inventory-management-api  
-
-Built a full-stack inventory management system using Flask, SQLAlchemy, and SQLite with RESTful APIs for product and sales data.
-
-- Designed relational database schema and ETL pipeline using Pandas  
-- Developed KPI endpoints for stock levels, top-selling products, and inventory valuation  
-- Containerised the application using Docker for reproducible deployment  
-
----
-
 ## 🌿 Biodiversity in National Parks | Python, Pandas  
 🔗 https://github.com/kb1278/biodiversity-national-parks-analysis  
 
@@ -94,4 +80,4 @@ Built an interactive Excel dashboard to analyse sales performance, profitability
 
 # 🛠️ Languages and Tools
 
-Python | SQL | dbt | DuckDB | Pandas | NumPy | scikit-learn | Flask | SQLite | Docker | Git | GitHub | Streamlit | Power BI | Excel
+Python | SQL | dbt | Pandas | NumPy | scikit-learn | SQLite | BigQuery | Git | GitHub | Streamlit | Power BI | Excel
