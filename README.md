@@ -80,4 +80,4 @@ Built an interactive Excel dashboard to analyse sales performance, profitability
 
 # 🛠️ Languages and Tools
 
-Python | SQL | dbt | Pandas | NumPy | scikit-learn | SQLite | BigQuery | Git | GitHub | Streamlit | Power BI | Excel
+Python | SQL | dbt | Pandas | NumPy | scikit-learn | BigQuery | Git | GitHub | Streamlit | Power BI | Excel
