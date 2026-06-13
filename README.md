@@ -19,7 +19,7 @@ Experienced in designing ELT workflows, KPI reporting systems, and structured da
 
 # 🚀 Projects
 
-## 📊 E-Commerce Analytics Pipeline | dbt, SQL, DuckDB  
+## 📊 E-Commerce Analytics Pipeline | dbt, SQL, BigQuery
 🔗 https://github.com/kb1278/ecommerce-dbt-analytics  
 
 Built an end-to-end analytics engineering pipeline using dbt and DuckDB on the Olist e-commerce dataset.
