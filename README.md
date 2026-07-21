@@ -9,7 +9,7 @@
 # 👨‍💻 About Me
 
 
-Junior Data Analyst / Analytics Engineer with experience applying Data Science and Machine Learning techniques, using Python, SQL, Power BI, dbt, and cloud data platforms to build analytics pipelines, predictive models, and business intelligence solutions that transform raw data into actionable insights.
+Junior Data Analyst / Analytics Engineer with experience applying Data Science and Machine Learning techniques, using Python, SQL, Power BI, dbt, and cloud data platforms to build analytics pipelines, predictive models, and business intelligence solutions.
 
 Experienced in data cleaning, exploratory data analysis, statistical analysis, feature engineering, machine learning, and data visualisation using Pandas, NumPy, scikit-learn, Matplotlib, and Excel.
 
