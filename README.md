@@ -11,7 +11,7 @@
 
 Junior Data Analyst / Analytics Engineer with experience in Data Science and Machine Learning, using Python, SQL, Power BI, dbt, and cloud data platforms to build analytics pipelines, predictive models, and business intelligence solutions that transform raw data into actionable insights.
 
-Experienced in data cleaning, exploratory data analysis, statistical analysis, feature engineering, machine learning, and data visualisation using Pandas, NumPy, scikit-learn, XGBoost, Matplotlib, and Excel.
+Experienced in data cleaning, exploratory data analysis, statistical analysis, feature engineering, machine learning, and data visualisation using Pandas, NumPy, scikit-learn, Matplotlib, and Excel.
 
 Built ELT workflows, data models, KPI reporting systems, and predictive analytics solutions using SQL and cloud data warehouses. Certified in Google Data Analytics, Google Advanced Data Analytics, and IBM Data Science.
 
