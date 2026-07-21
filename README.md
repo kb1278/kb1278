@@ -24,7 +24,7 @@ Built ELT workflows, data models, KPI reporting systems, and predictive analytic
 ## 📊 E-Commerce Analytics Pipeline | dbt, SQL, BigQuery
 🔗 https://github.com/kb1278/ecommerce-dbt-analytics  
 
-Built an end-to-end analytics engineering pipeline using dbt and DuckDB on the Olist e-commerce dataset.
+Built an end-to-end analytics engineering pipeline using dbt and BigQuery on the Olist e-commerce dataset.
 
 - Designed a layered staging → marts architecture for scalable data transformation
 - Built fact and dimension models for orders, customers, and revenue analysis
