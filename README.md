@@ -21,6 +21,17 @@ Built ELT workflows, data models, KPI reporting systems, and predictive analytic
 
 # 🚀 Projects
 
+## 📈 E-Commerce Revenue Forecasting | Python, ARIMA, XGBoost
+🔗 https://github.com/kb1278/ecommerce-revenue-forecasting
+
+Built an end-to-end revenue forecasting pipeline using the Olist Brazilian e-commerce dataset.
+
+- Integrated order and payment data and transformed transaction-level records into monthly revenue trends
+- Performed exploratory time-series analysis and engineered lag, rolling, and time-based features
+- Compared ARIMA statistical forecasting with XGBoost machine learning forecasting
+- Evaluated both models using a chronological six-month holdout test set
+- ARIMA achieved an MAE of 49.7K BRL and RMSE of 73.7K BRL, outperforming XGBoost for this dataset and evaluation period
+
 ## 📊 E-Commerce Analytics Pipeline | dbt, SQL, BigQuery
 🔗 https://github.com/kb1278/ecommerce-dbt-analytics  
 
