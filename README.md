@@ -46,7 +46,7 @@ Built an end-to-end analytics engineering pipeline using dbt and BigQuery on the
 - Built fact and dimension models for orders, customers, and revenue analysis
 - Developed SQL models to generate core KPIs including revenue and monthly performance metrics
 - Applied dbt best practices including testing, documentation, and modular transformations
-- Delivered analytics-ready datasets supporting £16M+ revenue insights and business reporting  
+- Delivered analytics-ready datasets supporting 16M+ BRL revenue insights and business reporting  
 
 
 ---
