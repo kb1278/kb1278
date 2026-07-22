@@ -13,7 +13,7 @@ Data and analytics practitioner with practical experience using Python, SQL, Pow
 
 Skilled in data cleaning, exploratory data analysis, statistical analysis, feature engineering, machine learning, time-series forecasting, data modelling, ELT workflows, and data visualisation using Pandas, NumPy, scikit-learn, Matplotlib, and Excel.
 
-Built end-to-end projects across data analytics, analytics engineering, data engineering, machine learning, and business intelligence using real-world datasets. transformed raw data into structured datasets, developing KPI reporting solutions, building predictive models, and applying automated data quality testing.
+Built end-to-end projects across data analytics, analytics engineering, data engineering, machine learning, and business intelligence using real-world datasets. Transformed raw data into structured datasets, developing KPI reporting solutions, building predictive models, and applying automated data quality testing.
 
 Certified in Google Data Analytics, Google Advanced Data Analytics, IBM Data Science, and IBM Data Engineering.
 
