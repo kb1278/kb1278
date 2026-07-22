@@ -9,9 +9,9 @@
 # 👨‍💻 About Me
 
 
-Data and analytics practitioner with hands-on experience using Python, SQL, Power BI, dbt, and BigQuery to build analytics pipelines, predictive models, business intelligence solutions, and analytics-ready datasets.
+Data and analytics practitioner with practical experience using Python, SQL, Power BI, dbt, and BigQuery to build analytics pipelines, predictive models, business intelligence solutions, and analytics-ready datasets.
 
-Experienced in data cleaning, exploratory data analysis, statistical analysis, feature engineering, machine learning, time-series forecasting, data modelling, ELT workflows, and data visualisation using Pandas, NumPy, scikit-learn, Matplotlib, and Excel.
+Skilled in data cleaning, exploratory data analysis, statistical analysis, feature engineering, machine learning, time-series forecasting, data modelling, ELT workflows, and data visualisation using Pandas, NumPy, scikit-learn, Matplotlib, and Excel.
 
 Built end-to-end projects across data analytics, analytics engineering, data engineering, machine learning, and business intelligence using real-world datasets. Experienced in transforming raw data into structured datasets, developing KPI reporting solutions, building predictive models, and applying automated data quality testing.
 
